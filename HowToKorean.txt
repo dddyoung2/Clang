@@ -1,2 +1,0 @@
-Write and command to Terminal.
-chcp 65001
