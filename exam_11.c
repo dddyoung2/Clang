@@ -4,7 +4,7 @@ int main(void){
     int a = 0;
     int b = 0;
     char sep = ' ';
-    //계산기
+    
     printf("첫번째 수를 입력하세요 : ");
     scanf("%d",&a);
     

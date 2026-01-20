@@ -2,7 +2,7 @@
 
 int main(void){
     int a, b, c, d = 0;
-    
+    //단순 계산기
     printf("첫 번째 계산할 값을 입력하세요. ==> "); 
     scanf("%d", &a);
     
